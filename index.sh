@@ -1,5 +1,5 @@
 #!/bin/bash
 
-bun run index.ts
-git commit -am 'Update pending.ics'
-git push
+/opt/homebrew/bin/bun run index.ts
+/opt/homebrew/bin/git commit -am 'Update pending.ics'
+/opt/homebrew/bin/git push
