@@ -4,21 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:Life Time Pending
 X-WR-CALNAME:Life Time Pending
 BEGIN:VEVENT
-UID:13c4e6ff-2c90-415f-befa-9ea0f314e329
+UID:80c311dd-6a9f-4688-8bd8-f7f9dfe45c4d
 SEQUENCE:0
-DTSTAMP:20231102T200701Z
-DTSTART:20231110T113000Z
-DTEND:20231110T130000Z
-SUMMARY:Pickleball Open Play: Drills and Open Play - Bring a Partner
-LOCATION:PENDING
-DESCRIPTION:
-URL;VALUE=URI:https://my.lifetime.life/clubs/ny/sky-manhattan/classes/clas
- s-details.html?eventId=ZXhlcnA6MjUwYm9vazIyNjgxMzoyMDIzLTExLTEw
-END:VEVENT
-BEGIN:VEVENT
-UID:8cce9f7c-227e-4393-bf17-0f510309ca03
-SEQUENCE:0
-DTSTAMP:20231102T200701Z
+DTSTAMP:20231103T160001Z
 DTSTART:20231111T010000Z
 DTEND:20231111T040000Z
 SUMMARY:Pickleball Open Play:  4.25-4.75 DUPR Mandatory- Club Submit- (Pla
@@ -29,9 +17,9 @@ URL;VALUE=URI:https://my.lifetime.life/clubs/ny/sky-manhattan/classes/clas
  s-details.html?eventId=ZXhlcnA6MjUwYm9vazIzMDMwNjoyMDIzLTExLTEw
 END:VEVENT
 BEGIN:VEVENT
-UID:16ccd9fe-f635-4c87-9c0e-7add97902e3b
+UID:b226032f-e7a3-49a7-9d23-17ab89786c78
 SEQUENCE:0
-DTSTAMP:20231102T200701Z
+DTSTAMP:20231103T160001Z
 DTSTART:20231112T170000Z
 DTEND:20231112T190000Z
 SUMMARY:Pickleball Open Play: 4.25-4.75 DUPR Mandatory- Club Submit- (Part
@@ -42,9 +30,9 @@ URL;VALUE=URI:https://my.lifetime.life/clubs/ny/sky-manhattan/classes/clas
  s-details.html?eventId=ZXhlcnA6MjUwYm9vazIyNzUzMToyMDIzLTExLTEy
 END:VEVENT
 BEGIN:VEVENT
-UID:40bfd96a-ab03-46a0-8746-8aae21cefc0d
+UID:c6b5dfed-3646-4e27-adf2-6a6cf63702fa
 SEQUENCE:0
-DTSTAMP:20231102T200701Z
+DTSTAMP:20231103T160001Z
 DTSTART:20231113T113000Z
 DTEND:20231113T130000Z
 SUMMARY:Pickleball Open Play: Drill/Play - Bring a partner
@@ -54,9 +42,9 @@ URL;VALUE=URI:https://my.lifetime.life/clubs/ny/sky-manhattan/classes/clas
  s-details.html?eventId=ZXhlcnA6MjUwYm9vazIyNzA5NDoyMDIzLTExLTEz
 END:VEVENT
 BEGIN:VEVENT
-UID:2a961233-7234-4000-b07d-f3db64bde8b5
+UID:d0515c60-2905-4d82-b0af-655cb0a0689f
 SEQUENCE:0
-DTSTAMP:20231102T200701Z
+DTSTAMP:20231103T160001Z
 DTSTART:20231114T113000Z
 DTEND:20231114T130000Z
 SUMMARY:Pickleball Open Play: Drill and Play- Bring a Partner
@@ -66,9 +54,9 @@ URL;VALUE=URI:https://my.lifetime.life/clubs/ny/sky-manhattan/classes/clas
  s-details.html?eventId=ZXhlcnA6MjUwYm9vazIzMTg3MDoyMDIzLTExLTE0
 END:VEVENT
 BEGIN:VEVENT
-UID:917c5447-2b25-4f82-99cf-97bb2ea8d95c
+UID:1b1e7cab-b8bc-434d-a8b2-200bc7b0ecec
 SEQUENCE:0
-DTSTAMP:20231102T200701Z
+DTSTAMP:20231103T160001Z
 DTSTART:20231114T130000Z
 DTEND:20231114T143000Z
 SUMMARY:Pickleball Open Play: Drill and Play- Bring a Partner
@@ -78,9 +66,9 @@ URL;VALUE=URI:https://my.lifetime.life/clubs/ny/sky-manhattan/classes/clas
  s-details.html?eventId=ZXhlcnA6MjUwYm9vazIzMTE4ODoyMDIzLTExLTE0
 END:VEVENT
 BEGIN:VEVENT
-UID:3051cde4-556a-40bb-8d96-f2470bba9b72
+UID:5a3508be-891b-423b-94cb-e87472ce6ca1
 SEQUENCE:0
-DTSTAMP:20231102T200701Z
+DTSTAMP:20231103T160001Z
 DTSTART:20231115T113000Z
 DTEND:20231115T130000Z
 SUMMARY:Pickleball Open Play: Drill and Play-Bring a Partner
@@ -90,9 +78,9 @@ URL;VALUE=URI:https://my.lifetime.life/clubs/ny/sky-manhattan/classes/clas
  s-details.html?eventId=ZXhlcnA6MjUwYm9vazIyOTY3MToyMDIzLTExLTE1
 END:VEVENT
 BEGIN:VEVENT
-UID:581717a6-1afa-4d2d-92a9-a7021d56b3fb
+UID:fb416fbe-983c-4465-a73d-f1b08ccf2b0d
 SEQUENCE:0
-DTSTAMP:20231102T200701Z
+DTSTAMP:20231103T160001Z
 DTSTART:20231115T130000Z
 DTEND:20231115T143000Z
 SUMMARY:Pickleball Open Play - All Levels: Drill and Play-Bring a Partner
@@ -102,9 +90,9 @@ URL;VALUE=URI:https://my.lifetime.life/clubs/ny/sky-manhattan/classes/clas
  s-details.html?eventId=ZXhlcnA6MjUwYm9vazIyNjM2ODoyMDIzLTExLTE1
 END:VEVENT
 BEGIN:VEVENT
-UID:9030705e-fda9-46df-8bee-8e6bccbd152e
+UID:164b46fb-d821-42a6-814c-9a54356cab66
 SEQUENCE:0
-DTSTAMP:20231102T200701Z
+DTSTAMP:20231103T160001Z
 DTSTART:20231116T113000Z
 DTEND:20231116T130000Z
 SUMMARY:Pickleball Open Play - All Levels: Drill and Play - Bring a Partne
@@ -115,9 +103,9 @@ URL;VALUE=URI:https://my.lifetime.life/clubs/ny/sky-manhattan/classes/clas
  s-details.html?eventId=ZXhlcnA6MjUwYm9vazIyNjQ2MToyMDIzLTExLTE2
 END:VEVENT
 BEGIN:VEVENT
-UID:a66af964-ebd8-4413-a25a-36c2026775b6
+UID:826678fa-e7a3-4455-a192-8aff87eba824
 SEQUENCE:0
-DTSTAMP:20231102T200701Z
+DTSTAMP:20231103T160001Z
 DTSTART:20231116T130000Z
 DTEND:20231116T143000Z
 SUMMARY:Pickleball Open Play - All Levels: Drill and Play- Bring a Partner
@@ -127,9 +115,9 @@ URL;VALUE=URI:https://my.lifetime.life/clubs/ny/sky-manhattan/classes/clas
  s-details.html?eventId=ZXhlcnA6MjUwYm9vazIyNjA4MjoyMDIzLTExLTE2
 END:VEVENT
 BEGIN:VEVENT
-UID:30ec019e-3ad3-4956-9c7e-5dc7e63b4c5a
+UID:ad73ca43-6f1f-449c-92db-4001a0b540d8
 SEQUENCE:0
-DTSTAMP:20231102T200701Z
+DTSTAMP:20231103T160001Z
 DTSTART:20231117T113000Z
 DTEND:20231117T130000Z
 SUMMARY:Pickleball Open Play: Drills and Open Play - Bring a Partner
@@ -139,9 +127,9 @@ URL;VALUE=URI:https://my.lifetime.life/clubs/ny/sky-manhattan/classes/clas
  s-details.html?eventId=ZXhlcnA6MjUwYm9vazIyNjgxNDoyMDIzLTExLTE3
 END:VEVENT
 BEGIN:VEVENT
-UID:3771757e-78eb-4a18-8548-081234740232
+UID:3018d83f-387b-4515-9d35-a034730aef1d
 SEQUENCE:0
-DTSTAMP:20231102T200701Z
+DTSTAMP:20231103T160001Z
 DTSTART:20231117T153000Z
 DTEND:20231117T173000Z
 SUMMARY:Pickleball Open Play - All Levels: Must Know PB Rules- All Levels
@@ -151,9 +139,9 @@ URL;VALUE=URI:https://my.lifetime.life/clubs/ny/sky-manhattan/classes/clas
  s-details.html?eventId=ZXhlcnA6MjUwYm9vazIyNjUyOToyMDIzLTExLTE3
 END:VEVENT
 BEGIN:VEVENT
-UID:01c024ae-8c39-4d3c-ba6a-61c3d0a38773
+UID:2523d90c-58c7-4525-8e29-37a99495357e
 SEQUENCE:0
-DTSTAMP:20231102T200701Z
+DTSTAMP:20231103T160001Z
 DTSTART:20231118T010000Z
 DTEND:20231118T040000Z
 SUMMARY:Pickleball Open Play:  4.25-4.75 DUPR Mandatory- Club Submit- (Pla
@@ -164,9 +152,9 @@ URL;VALUE=URI:https://my.lifetime.life/clubs/ny/sky-manhattan/classes/clas
  s-details.html?eventId=ZXhlcnA6MjUwYm9vazIzMDMwNzoyMDIzLTExLTE3
 END:VEVENT
 BEGIN:VEVENT
-UID:69270037-6181-4279-8acc-b227ededba48
+UID:23b82b0d-ddb8-4b42-8879-eac67b338d18
 SEQUENCE:0
-DTSTAMP:20231102T200701Z
+DTSTAMP:20231103T160001Z
 DTSTART:20231116T180000Z
 DTEND:20231116T193000Z
 SUMMARY:Pickleball Open Play: 4.25+Drill Session\, Each member that signs 
@@ -177,9 +165,9 @@ URL;VALUE=URI:https://my.lifetime.life/clubs/ny/sky-manhattan/classes/clas
  s-details.html?eventId=ZXhlcnA6MjUwYm9vazIzMzM3MjoyMDIzLTExLTE2
 END:VEVENT
 BEGIN:VEVENT
-UID:3d68c5d3-41cc-43c2-84dd-e39ecc5939d8
+UID:c091a3e8-0779-40f6-91ab-e6a59570b151
 SEQUENCE:0
-DTSTAMP:20231102T200701Z
+DTSTAMP:20231103T160001Z
 DTSTART:20231123T180000Z
 DTEND:20231123T193000Z
 SUMMARY:Pickleball Open Play: 4.25+Drill Session\, Each member that signs 
