@@ -1,7 +1,7 @@
 import ical from "ical-generator";
 
 async function getCalendar() {
-  const response = await fetch("http://infinitie.local:8080/?status=PENDING");
+  const response = await fetch("http://localhost:8080/?status=PENDING");
   const reservations = await response.json();
 
   const calendar = ical({
