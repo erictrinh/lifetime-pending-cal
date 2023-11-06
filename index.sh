@@ -1,6 +1,6 @@
 #!/bin/bash
 
 bun run index.ts
-git add .
-git commit -am 'Update pending.ics'
+git add pending.json
+git commit -m 'Update pending.json'
 git push
