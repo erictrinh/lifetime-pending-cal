@@ -32,14 +32,6 @@
     "url": "https://my.lifetime.life/clubs/ny/sky-manhattan/classes/class-details.html?eventId=ZXhlcnA6MjUwYm9vazI0Mjk3NjoyMDI0LTAzLTIw"
   },
   {
-    "start": "2024-03-15T20:15:00.000Z",
-    "end": "2024-03-15T21:15:00.000Z",
-    "summary": "Alpha Strength",
-    "description": "",
-    "location": "PENDING",
-    "url": "https://my.lifetime.life/clubs/ny/sky-manhattan/classes/class-details.html?eventId=ZXhlcnA6MjUwYm9vazI0MzM5NDoyMDI0LTAzLTE1"
-  },
-  {
     "start": "2024-03-18T22:45:00.000Z",
     "end": "2024-03-18T23:45:00.000Z",
     "summary": "Alpha Strength",
@@ -88,11 +80,19 @@
     "url": "https://my.lifetime.life/clubs/ny/sky-manhattan/classes/class-details.html?eventId=ZXhlcnA6MjUwYm9vazI1MzYwNToyMDI0LTAzLTIy"
   },
   {
-    "start": "2024-03-22T18:00:00.000Z",
-    "end": "2024-03-22T20:00:00.000Z",
-    "summary": "Pickleball Open Play: 4.5+ DUPR Optional - Self Submit",
+    "start": "2024-03-19T23:00:00.000Z",
+    "end": "2024-03-20T01:00:00.000Z",
+    "summary": "Pickleball Open Play: 4.75+ Players Only",
     "description": "",
     "location": "PENDING",
-    "url": "https://my.lifetime.life/clubs/ny/sky-manhattan/classes/class-details.html?eventId=ZXhlcnA6MjUwYm9vazI2NTczNDoyMDI0LTAzLTIy"
+    "url": "https://my.lifetime.life/clubs/ny/sky-manhattan/classes/class-details.html?eventId=ZXhlcnA6MjUwYm9vazI0MjAxODoyMDI0LTAzLTE5"
+  },
+  {
+    "start": "2024-03-26T23:00:00.000Z",
+    "end": "2024-03-27T01:00:00.000Z",
+    "summary": "Pickleball Open Play: 4.75+ Players Only",
+    "description": "",
+    "location": "PENDING",
+    "url": "https://my.lifetime.life/clubs/ny/sky-manhattan/classes/class-details.html?eventId=ZXhlcnA6MjUwYm9vazI0MjAxOToyMDI0LTAzLTI2"
   }
 ]
